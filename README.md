@@ -1,6 +1,6 @@
 # KUB Wallet Token Registry
 
-Name, symbol, logo, contract address, and decimals for community tokens shown in KUB Wallet. Officially listed assets such as KKUB and THBK are managed elsewhere and are not submitted here. They take precedence on any collision, so a submission reusing an official token's address, name, or symbol will be rejected.
+Name, symbol, logo, contract address, and decimals for community tokens shown in KUB Wallet. Officially listed assets such as KKUB are managed elsewhere and are not submitted here. They take precedence on any collision, so a submission reusing an official token's address, name, or symbol will be rejected.
 
 Full submission guide: [Add New Tokens on KUB Wallet](https://bitkub-blockchain.gitbook.io/kub-wallet/assets/add-new-tokens-on-kub-wallet). This README is the field reference.
 
